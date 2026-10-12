@@ -218,3 +218,34 @@ gradlew.bat build
 >
 > 国内网络下 Gradle 下载较慢时，可自行配置镜像后重试。
 
+---
+
+## 九、许可证
+
+本项目采用 **MIT License**，全文见 [LICENSE](LICENSE)。
+
+简单说，**你可以自由地**：
+
+* 使用这个模组，包括放进整合包、服务器
+* 阅读、修改源码，改成你自己想要的样子
+* 再分发原版或你修改后的版本，甚至可以商用
+
+**唯一的条件是**：在你分发的时候，保留原有的版权声明和这份 MIT 许可证文本。
+
+软件按"原样"提供，不附带任何担保。
+
+> 想给这个项目提交改动？欢迎直接开 Issue 或 Pull Request。
+> Fork 之后改完提 PR 即可，不需要事先征求同意。
+
+### English
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for the full text.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense and/or sell
+copies of this software. The only requirement is that you keep the original copyright
+notice and the MIT license text in all copies or substantial portions of the software.
+
+The software is provided "as is", without warranty of any kind.
+
+Contributions are welcome — feel free to open an issue or send a pull request.
+
