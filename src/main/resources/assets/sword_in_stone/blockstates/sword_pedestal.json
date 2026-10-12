@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_sword=true": {
+      "model": "sword_in_stone:block/sword_pedestal_with_sword"
+    },
+    "has_sword=false": {
+      "model": "sword_in_stone:block/sword_pedestal_empty"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="DSH"
+description='''
+Excalibur - the Sword in the Stone.
+A holy blade resting on the pedestal at the top of a ruined tower.
+Pull it free, charge it for 1.5 seconds and gain 10 minutes of Resistance III, Strength II and Speed II.
+'''
+logoFile="sword_in_stone.png"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

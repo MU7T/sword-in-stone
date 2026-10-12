@@ -1,0 +1,25 @@
+{
+  "block.sword_in_stone.sword_pedestal": "誓约之剑底座",
+  "item.sword_in_stone.stone_sword": "誓约胜利之剑",
+  "item.sword_in_stone.sword_pedestal": "誓约之剑底座",
+
+  "effect.sword_in_stone.sanctuary_resistance": "庇护·抵抗",
+  "effect.sword_in_stone.sanctuary_strength": "庇护·力量",
+  "effect.sword_in_stone.sanctuary_speed": "庇护·速度",
+
+  "tooltip.sword_in_stone.skill": "技能：庇护（右键蓄力 1.5 秒）",
+  "tooltip.sword_in_stone.skill.resistance": "  抗性提升 III",
+  "tooltip.sword_in_stone.skill.strength": "  力量 II",
+  "tooltip.sword_in_stone.skill.speed": "  迅捷 II",
+  "tooltip.sword_in_stone.skill.charge": "  持续时间：10 分钟",
+  "tooltip.sword_in_stone.skill.cooldown": "  冷却时间：12 分钟",
+  "tooltip.sword_in_stone.insert": "空手右键底座可将剑插回",
+
+  "message.sword_in_stone.on_cooldown": "庇护之力尚未恢复……",
+  "message.sword_in_stone.too_early": "蓄力被打断——请长按右键 1.5 秒。",
+  "message.sword_in_stone.ready": "庇护已就绪，松开右键释放！",
+  "message.sword_in_stone.cast": "庇护已开启！",
+  "message.sword_in_stone.not_worthy": "剑纹丝不动。需要 %s 级经验。",
+  "message.sword_in_stone.pulled": "你拔出了誓约胜利之剑！",
+  "message.sword_in_stone.inserted": "誓约胜利之剑已归位。"
+}

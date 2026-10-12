@@ -1,0 +1,25 @@
+{
+  "block.sword_in_stone.sword_pedestal": "Sword Pedestal",
+  "item.sword_in_stone.stone_sword": "Excalibur",
+  "item.sword_in_stone.sword_pedestal": "Sword Pedestal",
+
+  "effect.sword_in_stone.sanctuary_resistance": "Sanctuary Resistance",
+  "effect.sword_in_stone.sanctuary_strength": "Sanctuary Strength",
+  "effect.sword_in_stone.sanctuary_speed": "Sanctuary Speed",
+
+  "tooltip.sword_in_stone.skill": "Skill: Sanctuary (right-click, hold 1.5s)",
+  "tooltip.sword_in_stone.skill.resistance": "  Resistance III",
+  "tooltip.sword_in_stone.skill.strength": "  Strength II",
+  "tooltip.sword_in_stone.skill.speed": "  Speed II",
+  "tooltip.sword_in_stone.skill.charge": "  Duration: 10 minutes",
+  "tooltip.sword_in_stone.skill.cooldown": "  Cooldown: 12 minutes",
+  "tooltip.sword_in_stone.insert": "Right-click an empty pedestal to put it back",
+
+  "message.sword_in_stone.on_cooldown": "Sanctuary is still recovering...",
+  "message.sword_in_stone.too_early": "The charge broke - hold right-click for 1.5 seconds.",
+  "message.sword_in_stone.ready": "Sanctuary is ready - release to unleash it!",
+  "message.sword_in_stone.cast": "Sanctuary activated!",
+  "message.sword_in_stone.not_worthy": "The sword will not budge. %s experience levels are required.",
+  "message.sword_in_stone.pulled": "You drew Excalibur from the stone!",
+  "message.sword_in_stone.inserted": "Excalibur is set back into the stone."
+}

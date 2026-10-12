@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 68,
+    "separation": 16,
+    "salt": 1958512093
+  },
+  "structures": [
+    {
+      "structure": "sword_in_stone:sword_tower",
+      "weight": 1
+    }
+  ]
+}
